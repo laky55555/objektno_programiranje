@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1428003719 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\5. sat\vek_realk.cpp
+	"vek_realk.h"
+	<string>
+	<cmath>
+
+1427832007 c:\users\ivan\documents\faks\3 godina\objektno programiranje\5. sat\vek_realk.h
+	<iostream>
+	<string>
+
+1427831877 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\5. sat\main.cpp
+	"vek_realk.h"
+

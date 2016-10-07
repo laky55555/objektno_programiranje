@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1427400005 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\4. sat\main.cpp
+	<iostream>
+	"poruka.h"
+
+1427393400 c:\users\ivan\documents\faks\3 godina\objektno programiranje\4. sat\poruka.h
+	<string>
+	<set>
+
+1427399929 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\4. sat\poruka.cpp
+	<iostream>
+	"poruka.h"
+	<string>
+	<set>
+

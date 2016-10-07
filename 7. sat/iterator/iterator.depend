@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1429223764 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\7. sat\main.cpp
+	"iterator.h"
+
+1429222855 c:\users\ivan\documents\faks\3 godina\objektno programiranje\7. sat\iterator.h
+	<iostream>
+	<memory>
+	<utility>
+
+1429224495 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\7. sat\iterator.cpp
+	"iterator.h"
+	<stdexcept>
+
+1429137640 c:\users\ivan\documents\faks\3 godina\objektno programiranje\7. sat\stablo.h
+	<iostream>
+	<memory>
+	<utility>
+

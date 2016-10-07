@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1426629601 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\3. sat\red.cpp
+	<iostream>
+	"red.h"
+
+1426778324 c:\users\ivan\documents\faks\3 godina\objektno programiranje\3. sat\red.h
+	<vector>
+
+1426778503 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\3. sat\main.cpp
+	<iostream>
+	"red.h"
+

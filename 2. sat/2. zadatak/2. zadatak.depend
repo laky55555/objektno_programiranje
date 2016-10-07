@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1426283248 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\2. sat\tocka.cpp
+	"Tocka.h"
+	<iostream>
+	<vector>
+	<set>
+	<cmath>
+	<algorithm>
+
+1426283242 c:\users\ivan\documents\faks\3 godina\objektno programiranje\2. sat\tocka.h
+	<set>
+	<vector>
+

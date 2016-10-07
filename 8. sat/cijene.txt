@@ -1,0 +1,9 @@
+banane : 9.99
+bomboni : 8.5
+cokolada : 11.99
+jabuke : 12.1
+salata : 3.13
+mreza : 4.47
+secer : 5.55
+primilo se bajo moj : 333.12
+

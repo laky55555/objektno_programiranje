@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1426781815 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\3. sat\game.cpp
+	"game.h"
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1426781616 c:\users\ivan\documents\faks\3 godina\objektno programiranje\3. sat\game.h
+	<vector>
+	<string>
+
+1426781019 source:c:\users\ivan\documents\faks\3 godina\objektno programiranje\3. sat\game_main.cpp
+	"game.h"
+	<iostream>
+	<string>
+
